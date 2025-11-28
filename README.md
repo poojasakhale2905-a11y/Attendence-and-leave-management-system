@@ -1,3 +1,4 @@
+
 📘 README.md
 # Attendance & Leave Management System (C Program)
 
@@ -123,4 +124,8 @@ ID Name Present Absent Leave
 
 
 ---
+
+
+<img width="435" height="371" alt="2" src="https://github.com/user-attachments/assets/b2ea2d9c-bafd-4261-9c03-666299933183" />
+<img width="397" height="301" alt="1" src="https://github.com/user-attachments/assets/1e3b8291-bf81-4d5c-b8c9-08b068bf8ddb" />
 
