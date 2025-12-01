@@ -1,6 +1,6 @@
 
 ## 📘 ABSTRACT ##
-# Attendance & Leave Management System (C Program)
+#  Attendance & Leave Management System (C Program)
 
 This project is a console-based Attendance and Leave Management System written in C.  
 It allows administrators to manage employee information, record attendance, and process leave requests.
